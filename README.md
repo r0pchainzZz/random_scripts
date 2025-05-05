@@ -2,6 +2,6 @@ The files in this repo are random tools for making life easier during red teamin
 
 **pentest_http_server.py:** an extension of python's SimpleHTTPServer class displays POST requests, has the ability to handle file uploads, and automatically decodes and saves data exfiltrated as Base64
 
-**regex-char-tester.pl:** a perl5 script that takes a regex and a character as arguments and tells you if the character does or does not match the regex
+**regex_char_tester.pl:** a perl5 script that takes a regex and a character as arguments and tells you if the character does or does not match the regex
 
-**regex-tester.pl:** a perl5 script that takes a regex and displays all the ASCII characters that match it
+**regex_tester.pl:** a perl5 script that takes a regex and displays all the ASCII characters that match it
